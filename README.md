@@ -128,3 +128,12 @@ terms of computational latency and energy consumption.
 
 # IMPORTANT FEATURES
 ![image](https://github.com/user-attachments/assets/d5dd5b13-7358-43db-9ce0-53e9c61114cf)
+
+# TRAIN AND VALIDATION LOSS:
+![image](https://github.com/user-attachments/assets/85f77427-44cd-4f18-b1e3-d3a067f727ba)
+
+# TRAIN AND VALIDATION MAE:
+![image](https://github.com/user-attachments/assets/e3818eb6-ffc9-4bbc-8872-b46e07bdd660)
+
+
+
